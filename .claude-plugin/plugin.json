@@ -1,0 +1,8 @@
+{
+  "name": "mesopotamia",
+  "version": "0.1.0",
+  "description": "Mesopotamia for Claude Desktop: a Kurdish rug climbing the right edge of a dark window, and ten small dithered ASCII motifs that take turns beside the chat.",
+  "author": { "name": "chiasabah" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
